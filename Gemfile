@@ -67,4 +67,4 @@ gem "haml-rails"
 gem "font-awesome-rails"
 gem 'devise'
 gem 'rails-i18n'
-gem "erb2haml", :group => :development
+gem "erb2haml"
